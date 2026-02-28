@@ -8,7 +8,6 @@ interface DashboardLayoutProps {
 
 const navItems = [
   { path: '/overview', label: 'Dashboard', icon: 'dashboard' },
-  { path: '/newadmission', label: 'New Admission', icon: 'person_add' },
   { path: '/staff', label: 'Staff', icon: 'medical_services' },
 ];
 
